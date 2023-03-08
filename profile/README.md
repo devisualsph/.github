@@ -1,4 +1,4 @@
-[![banner](./images/github_org_cover.jpg)](https://github.com/wardvisuals)
+[![banner](../images/github_org_cover.jpg)](https://github.com/wardvisuals)
 
 # WardVL's Initiatives
 
