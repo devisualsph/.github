@@ -1,4 +1,4 @@
-[![banner](https://github.com/wardsolutions/.github/blob/main/images/org.jpg?raw=true)](https://github.com/wardsolutions)
+[![banner](https://github.com/wardsolutions/.github/blob/main/images/org_banner.jpg?raw=true)](https://github.com/wardsolutions)
 
 # WardSolutions
 
