@@ -1,5 +1,5 @@
-[![banner](./images/github_org_cover.jpg)](https://github.com/wardvisuals)
+[![banner](./images/org.jpg)](https://github.com/wardsolutions)
 
-# WardVL's Initiatives
+# WardSolutions
 
-Welcome to WardVL's Initiatives, an organization dedicated to creating useful tools and projects for developers and end-users alike. Our goal is to develop innovative solutions to real-world problems and make them accessible to everyone.
+Welcome to WardSolutions, an organization dedicated to creating useful tools and projects for developers and end-users alike. Our goal is to develop innovative solutions to real-world problems and make them accessible to everyone.
